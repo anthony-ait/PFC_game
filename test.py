@@ -1,6 +1,9 @@
 import employees
+import pygame
+import random
 
 
-marie = employees.Worker('M', 'N', 12, 34)
 
-print(marie.__dict__)
+
+print(pygame.__version__)
+print(random.__version__)
